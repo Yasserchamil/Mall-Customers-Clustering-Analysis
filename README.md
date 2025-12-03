@@ -59,9 +59,3 @@ The analysis was conducted using **Google Colab**.
 
 ---
 
-
-
----
-
-
-If you like this project, please give the repository a star!
